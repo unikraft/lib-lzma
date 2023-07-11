@@ -1,0 +1,5 @@
+name        := "lzma"
+description := "An improved version of famous LZ77 compression algorithm."
+homepage    := "http://www.7-zip.org/sdk.html"
+license     := "LGPL-2.0"
+version     := 16.04 sha256:50adee7a4259e3492d8b68dfd12bda0ed27e615193a16f10af296f23dc831b14 http://deb.debian.org/debian/pool/main/p/p7zip/p7zip_16.04+dfsg.orig.tar.xz
